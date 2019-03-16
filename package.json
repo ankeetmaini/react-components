@@ -2,7 +2,10 @@
   "name": "root",
   "private": true,
   "devDependencies": {
-    "lerna": "^3.13.1"
+    "@types/react": "^16.8.8",
+    "@types/react-dom": "^16.8.2",
+    "lerna": "^3.13.1",
+    "typescript": "^3.3.3333"
   },
   "workspaces": [
     "packages/*"
