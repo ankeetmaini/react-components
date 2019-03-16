@@ -1,0 +1,9 @@
+{
+  "name": "@hoppingfrog/modal",
+  "version": "0.0.0",
+  "description": "A Modal component",
+  "main": "src/index.ts",
+  "repository": "https://github.com/ankeetmaini/react-components",
+  "author": "Ankeet Maini <ankeet.maini@gmail.com>",
+  "license": "MIT"
+}

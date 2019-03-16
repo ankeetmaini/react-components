@@ -1,0 +1,9 @@
+{
+  "name": "@hoppingfrog/portal",
+  "version": "0.0.0",
+  "description": "A Portal for React components",
+  "main": "src/index.ts",
+  "repository": "https://github.com/ankeetmaini/react-components",
+  "author": "Ankeet Maini <ankeet.maini@gmail.com>",
+  "license": "MIT"
+}
