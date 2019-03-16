@@ -7,7 +7,8 @@
   "author": "Ankeet Maini <ankeet.maini@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "linaria": "^1.3.1",
+    "@emotion/core": "^10.0.9",
+    "@emotion/styled": "^10.0.9",
     "react": "^16.8.4"
   }
 }
