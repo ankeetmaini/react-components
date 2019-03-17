@@ -10,6 +10,7 @@
     "access": "public"
   },
   "dependencies": {
+    "@emotion/styled": "^10.0.9",
     "@hoppingfrog/portal": "^0.1.0-alpha.0",
     "emotion": "^10.0.9"
   }
