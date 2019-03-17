@@ -1,6 +1,6 @@
 {
   "name": "@hoppingfrog/modal",
-  "version": "0.0.0",
+  "version": "0.1.0-alpha.0",
   "description": "A Modal component",
   "main": "src/index.ts",
   "repository": "https://github.com/ankeetmaini/react-components",
@@ -13,7 +13,7 @@
     "react-dom": "^16.8.4"
   },
   "dependencies": {
-    "@hoppingfrog/portal": "^0.0.0"
+    "@hoppingfrog/portal": "^0.1.0-alpha.0"
   },
   "publishConfig": {
     "access": "public"
