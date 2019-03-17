@@ -26,4 +26,23 @@ storiesOf("Modal", module)
         <h3>Hello, Modal!</h3>
       </Modal>
     </div>
-  ));
+  ))
+  .add("toggle", () => <MyComponent />);
+
+const MyComponent = () => {
+  const [showModal, setShowModal] = React.useState(false);
+  return (
+    <div>
+      <h1>
+        Click the button to toggle Modal{" "}
+        <button onClick={() => setShowModal(true)}>Open Portal</button>
+      </h1>
+      {showModal && (
+        <Modal>
+          <h2>I am the modal</h2>
+          <button onClick={() => setShowModal(false)}>Close me</button>
+        </Modal>
+      )}
+    </div>
+  );
+};
