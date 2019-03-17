@@ -1,5 +1,5 @@
 {
-  "name": "auto-complete",
+  "name": "@hoppingfrog/auto-complete",
   "version": "0.0.0",
   "description": "An exemplary auto-complete",
   "main": "src/index.ts",
@@ -8,5 +8,9 @@
   "license": "MIT",
   "publishConfig": {
     "access": "public"
+  },
+  "dependencies": {
+    "@hoppingfrog/portal": "^0.1.0-alpha.0",
+    "emotion": "^10.0.9"
   }
 }
