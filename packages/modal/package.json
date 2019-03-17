@@ -14,5 +14,8 @@
   },
   "dependencies": {
     "@hoppingfrog/portal": "^0.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
