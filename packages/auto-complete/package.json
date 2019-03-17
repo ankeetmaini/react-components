@@ -1,0 +1,12 @@
+{
+  "name": "auto-complete",
+  "version": "0.0.0",
+  "description": "An exemplary auto-complete",
+  "main": "src/index.ts",
+  "repository": "https://github.com/ankeetmaini/react-components",
+  "author": "Ankeet Maini <ankeet.maini@gmail.com>",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}
